@@ -19,8 +19,3 @@ Here are some ideas to get you started:
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akifalbayrak&layout=compact&langs_count=8&theme=gotham"/>
 </a>
 </p>
-
-
-<p align="center" >
-<a href='https://www.linkedin.com/in/mehmetakifalbayrak/'> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" width="40"> </a>&nbsp;
-</p>
